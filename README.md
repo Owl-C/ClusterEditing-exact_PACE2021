@@ -14,4 +14,4 @@ make
 ./Main
 ```
 
-The input graph is given via the standard input.
+The input graph is given via the standard input. the solution is outputted via standard output.
